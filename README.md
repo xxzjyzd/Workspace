@@ -5,6 +5,7 @@
 * flask
 * oracle
 * git
+* english
 
 
 
